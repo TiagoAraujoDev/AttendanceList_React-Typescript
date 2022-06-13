@@ -17,12 +17,12 @@ Before starting, you will need to have the following tools installed on your mac
 [Git](https://git-scm.com). 
 To run the project you need to run the command line:
 
-<code>&lt;npm install&gt;</code> 
+<code>npm install</code> 
 
 ...to install the modules.
 And than run the following command on the terminal:
 
-<code>&lt;npm run dev&gt;</code> 
+<code>npm run dev</code> 
 
 ...and the application is ready to be used.
 
